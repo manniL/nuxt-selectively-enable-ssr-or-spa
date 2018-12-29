@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-selectively-enable-ssr-or-spa",
+  "version": "1.0.0",
+  "description": "Example for selectively enabling SSR or SPA mode",
+  "author": "manniL",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.3.4"
+  }
+}
